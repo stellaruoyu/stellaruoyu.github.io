@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 若瑜的博客
+subtitle: '记录生活，分享感悟'
+description: '若瑜的个人博客，记录读书、生活感悟'
+keywords: 读书笔记,育儿,生活感悟
+author: 若瑜
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xiangweizheng.github.io
+url: https://stellaruoyu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Menu Settings
 menu:
@@ -111,5 +111,5 @@ menu:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xiangweizheng/xiangweizheng.github.io.git
-  branch: main
+  repo: https://github.com/stellaruoyu/stellaruoyu.github.io.git
+  branch: gh-pages
