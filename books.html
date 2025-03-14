@@ -1,0 +1,27 @@
+---
+layout: page
+title: Reading List
+permalink: /books/
+---
+
+<link rel="stylesheet" href="/assets/css/books.css">
+
+<div class="book-list">
+  <h2>2024年阅读清单</h2>
+  
+  <div class="book-grid">
+    {% for book in site.data.books %}
+    <div class="book-card">
+      <img class="book-cover placeholder" src="/assets/images/placeholder.png" alt="{{ book.title }}">
+      <div class="book-info">
+        <h3 class="book-title">{{ book.title }}</h3>
+        <p class="book-author">{{ book.author }}</p>
+        <p class="book-status">{{ book.status }}</p>
+        <p class="book-due">到期日: {{ book.due_date }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="/assets/js/book-covers.js"></script>
