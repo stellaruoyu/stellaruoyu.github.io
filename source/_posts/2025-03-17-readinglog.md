@@ -1,4 +1,15 @@
-# Dragon Master: Heat of the Lava Dragon - Reading Notes
+---
+title: "Dragon Master: Heat of the Lava Dragon - Reading Notes"
+date: 2025-03-17 19:00:00
+tags:
+  - Reading
+  - Books
+  - Dragon Master Series
+  - Children's Literature
+categories:
+  - Kids Corner
+  - Reading Log
+---
 
 ## Book Information
 - 📚 Title: Dragon Master: Heat of the Lava Dragon
