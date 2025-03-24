@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Reading List: Week of March 23-30, 2024 | 本周阅读清单：2024年3月23日至30日"
-date: 2024-03-23
+title: "Reading List: Week of March 23-30, 2025 | 本周阅读清单：2025年3月23日至30日"
+date: 2025-03-23
 categories: [Books, Reading List]
 tags: [reading-list, books, library]
 ---
@@ -9,8 +9,8 @@ tags: [reading-list, books, library]
 # Weekly Reading List | 每周阅读清单
 
 ## Week Information | 周期信息
-- **Period | 时间**: March 23-30, 2024
-- **Due Date | 归还日期**: April 5-12, 2024
+- **Period | 时间**: March 23-30, 2025
+- **Due Date | 归还日期**: April 5-12, 2025
 - **Renewals Left | 剩余续借次数**: 4 for all books
 
 ## Categories | 分类
@@ -56,4 +56,4 @@ tags: [reading-list, books, library]
 - Consider which books to prioritize based on interest and reading level
 
 ---
-*Part of my 2024 Reading Journey | 2024年阅读之旅的一部分*
+*Part of my 2025 Reading Journey | 2025年阅读之旅的一部分*

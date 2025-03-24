@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading Notes: Dragon Master - Heat of the Lava Dragon | 读书笔记：龙骑士 - 熔岩龙的热量"
-date: 2024-03-15
+date: 2025-03-15
 categories: [Books, Children]
 tags: [children-books, fantasy, dragon, reading-notes]
 ---
@@ -16,7 +16,7 @@ tags: [children-books, fantasy, dragon, reading-notes]
 ## Reading Status | 阅读状态
 - [x] Started | 开始
 - [x] Completed | 完成
-- **Date | 日期**: March 15th, 2024
+- **Date | 日期**: March 15th, 2025
 
 ## Story Summary | 故事梗概
 Drake and other Dragon Masters arrive at a village with their dragons, but the villagers are unwelcoming. Later, Drake and another Dragon Master meet a girl and her mother, convincing them to leave the village. The girl promises to tell them a story.
@@ -51,4 +51,4 @@ Perhaps the girl's story will reveal a secret that helps the Dragon Masters find
 也许女孩的故事能揭示一个秘密，帮助龙骑士找到让村民接受龙的办法，或者引出新的冒险。
 
 ---
-*Part of 2024 Reading Challenge | 2024年阅读挑战的一部分*
+*Part of 2025 Reading Challenge | 2025年阅读挑战的一部分*

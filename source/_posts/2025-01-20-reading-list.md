@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2025 Reading List - Week 3"
-date: 2025-03-09
+title: "2024 Reading List - Week 3"
+date: 2024-03-09
 categories: [Books, Reading List]
 tags: [books, youth-graphic, youth-fiction]
 ---
